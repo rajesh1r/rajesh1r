@@ -4,7 +4,7 @@
 ### I'm a  ML Engineer, Developer and Mentor @[aiadventures.in][aiadv-website]
 - 🔭 I’m currently working on Myself!
 - 🌱 I’m currently learning .
-- 🥅 2022 Goals: Start Contributing to Open Source projects.
+- 🥅 2023 Goals: Start Contributing to Open Source projects.
 - ⚡ Fun fact: I love travelling and 🐶.
 
 
